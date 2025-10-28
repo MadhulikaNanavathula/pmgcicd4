@@ -4,7 +4,7 @@ pipeline {
     tools {
         // Use the exact names from Global Tool Configuration
         jdk 'jdk17' 
-        maven 'Maven_3_9_5' 
+        maven 'Maven3' 
     }
 
     stages {

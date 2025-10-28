@@ -3,7 +3,6 @@ pipeline {
 
     tools {
         // Use the exact names from Global Tool Configuration
-        jdk 'jdk-17' 
         maven 'Maven3' 
     }
 
